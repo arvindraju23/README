@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arvind Kumar Raju
+- 👋 Hi, I’m Arvind Kumar Raju.
 - 👀 I’m interested in software engineering.
 - 🌱 I’m currently learning Data Structure & Algorithem.
 - 💞️ I’m looking to collaborate in technology and in open source.
